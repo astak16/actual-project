@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/actual-project/react/potapo/static/css/main.8455e325.chunk.css",
+    "main.js": "/actual-project/react/potapo/static/js/main.9b33b8b4.chunk.js",
+    "main.js.map": "/actual-project/react/potapo/static/js/main.9b33b8b4.chunk.js.map",
+    "runtime-main.js": "/actual-project/react/potapo/static/js/runtime-main.43490cf9.js",
+    "runtime-main.js.map": "/actual-project/react/potapo/static/js/runtime-main.43490cf9.js.map",
+    "static/css/2.8a731d57.chunk.css": "/actual-project/react/potapo/static/css/2.8a731d57.chunk.css",
+    "static/js/2.0fde05e1.chunk.js": "/actual-project/react/potapo/static/js/2.0fde05e1.chunk.js",
+    "static/js/2.0fde05e1.chunk.js.map": "/actual-project/react/potapo/static/js/2.0fde05e1.chunk.js.map",
+    "index.html": "/actual-project/react/potapo/index.html",
+    "precache-manifest.7a756c56c6a54b089fbd213af808f1b2.js": "/actual-project/react/potapo/precache-manifest.7a756c56c6a54b089fbd213af808f1b2.js",
+    "service-worker.js": "/actual-project/react/potapo/service-worker.js",
+    "static/css/2.8a731d57.chunk.css.map": "/actual-project/react/potapo/static/css/2.8a731d57.chunk.css.map",
+    "static/css/main.8455e325.chunk.css.map": "/actual-project/react/potapo/static/css/main.8455e325.chunk.css.map",
+    "static/js/2.0fde05e1.chunk.js.LICENSE": "/actual-project/react/potapo/static/js/2.0fde05e1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43490cf9.js",
+    "static/css/2.8a731d57.chunk.css",
+    "static/js/2.0fde05e1.chunk.js",
+    "static/css/main.8455e325.chunk.css",
+    "static/js/main.9b33b8b4.chunk.js"
+  ]
+}
