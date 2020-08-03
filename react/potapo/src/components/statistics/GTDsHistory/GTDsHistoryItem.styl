@@ -1,0 +1,50 @@
+.GTDsHistoryItem
+  display flex
+  justify-content space-between
+  align-items center
+  cursor default
+  padding .5em
+  &:hover, &.editable
+    background #f4f4f4
+    .action
+      opacity 1
+  .action
+    white-space nowrap
+    opacity 0
+    color #0881B3
+    &:hover
+      cursor pointer
+  p
+    margin-bottom 0
+  .text
+    display flex
+    align-items center
+    width calc(90% - 1em)
+  .edit, .submit
+    margin-right 1em
+  .time
+    color #999
+    flex-shrink 0
+  .description, textarea
+    margin-left 1em
+    color #222
+    word-break break-all
+  .null
+    color #999
+  textarea
+    border 1px solid #ccc
+    padding 6px 4px
+    outline 0
+    border-radius 2px
+    color #777
+    max-width 100%
+    width 100%
+    display block
+    background #fff
+    vertical-align top
+    // 去掉滚动条
+    overflow hidden
+    overflow-wrap break-word
+    resize horizontal
+  .supply-info
+    color #ff7676
