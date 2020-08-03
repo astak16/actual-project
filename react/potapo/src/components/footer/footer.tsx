@@ -7,7 +7,7 @@ export class footer extends Component {
       <div className="page-footer">
         <p className="copyright">
           <span>©</span>
-          <span>2020 strugglebak</span>
+          <span>2020 uccs</span>
         </p>
         <ul className="page-footer-right">
           <li>
