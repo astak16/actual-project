@@ -1,14 +1,13 @@
 import React from 'react';
-// import './App.less';
-// import "antd/dist/antd.less"
-import {Button} from "antd";
 
-function App() {
-  return (
-    <div className="App">
-      <Button>点我一下</Button>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        {this.props.children}
+      </div>
+    );
+  }
 }
 
 export default App;
