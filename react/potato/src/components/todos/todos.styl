@@ -1,0 +1,26 @@
+$--inputbox-color-- = #ccc
+.todos
+  border 1px solid #ddd
+  width calc(50% - 8px)
+  border-radius 4px
+  box-shadow: 0 2px 0 rgba(225,225,225,.2)
+  background white
+  padding 16px
+  .todo-list
+    margin-top 15px
+
+  .ant-collapse-content > .ant-collapse-content-box
+    padding 0
+  .ant-collapse-item
+    background #fff
+  .ant-collapse-header
+    user-select none
+  .ant-checkbox-checked .ant-checkbox-inner
+    background-color $--inputbox-color--
+    border-color $--inputbox-color--
+  .ant-checkbox-checked::after
+    border-color $--inputbox-color--
+
+  .no-data
+    display flex
+    justify-content center

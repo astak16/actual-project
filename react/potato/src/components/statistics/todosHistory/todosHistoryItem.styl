@@ -1,0 +1,30 @@
+.todos-history-item
+  display flex
+  justify-content space-between
+  align-items center
+  cursor default
+  padding .5em
+  .text
+    display flex
+    align-items center
+  &:hover
+    background #f4f4f4
+    .action
+      opacity 1
+  .action
+    white-space nowrap
+    opacity 0
+    color #0881B3
+    &:hover
+      cursor pointer
+  .restore
+    margin-right 1em
+  .time
+    color #999
+    white-space nowrap
+  .description
+    margin-left 1em
+    color #222
+  .clock
+    margin-left 5px
+    color #888
