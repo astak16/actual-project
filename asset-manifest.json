@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.js": "/actual-project/react/jianshu/static/js/main.baee6705.chunk.js",
-    "main.js.map": "/actual-project/react/jianshu/static/js/main.baee6705.chunk.js.map",
-    "runtime-main.js": "/actual-project/react/jianshu/static/js/runtime-main.18d8f413.js",
-    "runtime-main.js.map": "/actual-project/react/jianshu/static/js/runtime-main.18d8f413.js.map",
-    "static/js/2.02d84306.chunk.js": "/actual-project/react/jianshu/static/js/2.02d84306.chunk.js",
-    "static/js/2.02d84306.chunk.js.map": "/actual-project/react/jianshu/static/js/2.02d84306.chunk.js.map",
-    "static/js/3.beba0043.chunk.js": "/actual-project/react/jianshu/static/js/3.beba0043.chunk.js",
-    "static/js/3.beba0043.chunk.js.map": "/actual-project/react/jianshu/static/js/3.beba0043.chunk.js.map",
-    "index.html": "/actual-project/react/jianshu/index.html",
-    "precache-manifest.d0eddefbd4bd657eab7bb86806059eb8.js": "/actual-project/react/jianshu/precache-manifest.d0eddefbd4bd657eab7bb86806059eb8.js",
-    "service-worker.js": "/actual-project/react/jianshu/service-worker.js",
-    "static/js/2.02d84306.chunk.js.LICENSE.txt": "/actual-project/react/jianshu/static/js/2.02d84306.chunk.js.LICENSE.txt"
+    "main.css": "/actual-project/react/potato/static/css/main.8455e325.chunk.css",
+    "main.js": "/actual-project/react/potato/static/js/main.e0cd3816.chunk.js",
+    "main.js.map": "/actual-project/react/potato/static/js/main.e0cd3816.chunk.js.map",
+    "runtime-main.js": "/actual-project/react/potato/static/js/runtime-main.5377581e.js",
+    "runtime-main.js.map": "/actual-project/react/potato/static/js/runtime-main.5377581e.js.map",
+    "static/css/2.c2490eca.chunk.css": "/actual-project/react/potato/static/css/2.c2490eca.chunk.css",
+    "static/js/2.160ba6a2.chunk.js": "/actual-project/react/potato/static/js/2.160ba6a2.chunk.js",
+    "static/js/2.160ba6a2.chunk.js.map": "/actual-project/react/potato/static/js/2.160ba6a2.chunk.js.map",
+    "index.html": "/actual-project/react/potato/index.html",
+    "precache-manifest.22cb156addf49daf712a2384b5d0058b.js": "/actual-project/react/potato/precache-manifest.22cb156addf49daf712a2384b5d0058b.js",
+    "service-worker.js": "/actual-project/react/potato/service-worker.js",
+    "static/css/2.c2490eca.chunk.css.map": "/actual-project/react/potato/static/css/2.c2490eca.chunk.css.map",
+    "static/css/main.8455e325.chunk.css.map": "/actual-project/react/potato/static/css/main.8455e325.chunk.css.map",
+    "static/js/2.160ba6a2.chunk.js.LICENSE": "/actual-project/react/potato/static/js/2.160ba6a2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.18d8f413.js",
-    "static/js/2.02d84306.chunk.js",
-    "static/js/main.baee6705.chunk.js"
+    "static/js/runtime-main.5377581e.js",
+    "static/css/2.c2490eca.chunk.css",
+    "static/js/2.160ba6a2.chunk.js",
+    "static/css/main.8455e325.chunk.css",
+    "static/js/main.e0cd3816.chunk.js"
   ]
 }
