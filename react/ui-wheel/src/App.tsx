@@ -3,6 +3,10 @@ import Button, {ButtonSize, ButtonType} from "./components/Button/Button";
 import Menu from "./components/Menu/Menu";
 import MenuItem from "./components/Menu/MenuItem";
 import SubMenu from "./components/Menu/SubMenu";
+import Icon from "./components/Icon/Icon";
+import {library} from "@fortawesome/fontawesome-svg-core"
+import {fas} from "@fortawesome/free-solid-svg-icons";
+library.add(fas)
 
 function App() {
   return (
@@ -26,6 +30,9 @@ function App() {
             <MenuItem>dropdown</MenuItem>
           </SubMenu>
         </Menu>
+      </div>
+      <div>
+        <Icon icon="coffee" theme="danger" size="10x"/>
       </div>
       <div>
         <Button disabled>Disabled Hello</Button>
